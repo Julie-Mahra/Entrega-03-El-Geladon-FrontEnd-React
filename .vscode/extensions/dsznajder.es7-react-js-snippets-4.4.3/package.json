@@ -160,13 +160,13 @@
 		"endOfLine": "auto"
 	},
 	"__metadata": {
+		"installedTimestamp": 1651426342594,
 		"id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
 		"publisherId": "7ea644b4-2d93-4979-aac5-a12afebeb762",
 		"publisherDisplayName": "dsznajder",
 		"targetPlatform": "undefined",
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"preRelease": false,
-		"installedTimestamp": 1650986454553
+		"preRelease": false
 	}
 }
